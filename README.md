@@ -10,7 +10,7 @@ A random sample size of 5000 twitter data or tweets were collected on November 2
 
 
 
-**Figure 1: Sentiment scores for Shang-Chi and the Ten Rings tweets
+**Figure 1: Sentiment scores for Shang-Chi and the Ten Rings tweets**
 
 
 More than half of the 5000 Shang-Chi and the Ten Rings tweets showed positive and anticipation sentiments after the release of the movie in theaters and streaming services. The data indicates the film was successful and there is anticipation on the continuation of Marvel films.
