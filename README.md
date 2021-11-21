@@ -10,6 +10,7 @@ A random sample size of 5000 twitter data or tweets were collected on November 2
 
 
 ![ShangChiSentiment](https://user-images.githubusercontent.com/73903035/142777659-73bb3445-60ae-453b-818a-191ba3cbdcdc.png)
+
 **Figure 1: Sentiment scores for Shang-Chi and the Ten Rings tweets**
 
 
