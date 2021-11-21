@@ -9,7 +9,7 @@ Due to the coronavirus pandemic, seeing the film in theaters was daunting but th
 A random sample size of 5000 twitter data or tweets were collected on November 21st, 2021. Any tweets that contained the word "shang-chi" was searched against the database. A wordcloud was conducted to determine what words were frequently used alongside "shang-chi" but the data provided no relationships or associations between words; therefore, the wordcloud was omitted from this study. A bar plot was made to investigate the sentiment of tweets that contained "shang-chi" and indicated that there is high positive and anticipation sentiment towards the film (Figure 1). Interestingly, the fear emotion was the third highest sentiment according to the data. Further investigation should be performed to determine why this is. Anger and disgust were the lowest rated sentiment scores which is a good indicator that the movie was well received.
 
 
-
+![ShangChiSentiment](https://user-images.githubusercontent.com/73903035/142777659-73bb3445-60ae-453b-818a-191ba3cbdcdc.png)
 **Figure 1: Sentiment scores for Shang-Chi and the Ten Rings tweets**
 
 
