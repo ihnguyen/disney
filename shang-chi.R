@@ -13,10 +13,10 @@ library("purrr")
 library("stringr")
 library("textclean")
 
-api_key <- "moMqwahI89bouu0N4S2o39jg7"
-api_secret <- "DShXkahhV3thrXirN1YWlkigPAQfqXqLaKhZpyAbfNkhGfzNOF"
-access_token <- "1461864624395993097-zSiD41FRzeyO4Y17NfOvl5t3gUJATT"
-access_token_secret <- "ysK99HYNkY9j3XQ982YeDuY6nnp3YXUzG4jsQ3nTBYaZV"
+api_key <- "XXX"
+api_secret <- "XXX"
+access_token <- "XXX"
+access_token_secret <- "XXX"
 setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 
 shang_tweet <- searchTwitter('shang-chi', n = 5000); head(shang_tweet)
